@@ -1,4 +1,4 @@
-# ESP32-Wrover board for KBPro IDE
+# ESP32-Wroom board for KBPro IDE
 
 ## การสร้างบอร์ดสำหรับ KBPro IDE
 - ทำการ falk repository นี้ (หรือ repo ที่ต้องการแก้ไข)

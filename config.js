@@ -8,5 +8,5 @@ module.exports = {
     email : 'comdet.p@gmail.com',
     git : 'https://github.com/comdet/generic-esp32-wroom/',
     image : '/static/display.jpg',
-    version : '1.0.0'
+    version : '1.0.1'
 };

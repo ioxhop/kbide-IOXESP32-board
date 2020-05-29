@@ -1,12 +1,12 @@
 module.exports = {    
-    name : 'esp32-wroom',
+    name : 'kbide-ioxesp32',
     platform : 'arduino-esp32',
-    title : 'Generic ESP32 Wroom',
-    description : 'ESP32-Wroom development board (Compatible with all ESP32 board).\n',
-    author : 'Comdet Phueadphut',
-    website : 'https://docs.espressif.com/projects/esp-idf/en/latest/hw-reference/get-started-devkitc.html',
-    email : 'comdet.p@gmail.com',
-    git : 'https://github.com/comdet/generic-esp32-wroom/',
+    title : 'IOXESP32',
+    description : 'ESP32 development board.\n',
+    author : 'Comdet Phueadphut | Modify by Sonthaya.N',
+    website : 'https://ioxesp32.ioxhop.info/',
+    email : 'max30012540@hotmail.com',
+    git : 'https://github.com/ioxhop/kbide-IOXESP32-board/',
     image : '/static/display.jpg',
-    version : '1.0.1'
+    version : '1.0.0'
 };

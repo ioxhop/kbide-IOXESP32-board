@@ -1,0 +1,15 @@
+{
+  "name": "ioxesp32_audio",
+  "title" : "IOXESP32 Audio",
+  "keywords": "IOXESP32 Audio",
+  "description": "Plugin for IOXESP32 Audio shield, Play file on MicroSD Card, Play file on internet, TTS",
+  "homepage": "https://docs.ioxesp32.com/",
+  "license": "GPL",
+  "git": "https://github.com/maxpromer/kbide-ioxesp32-audio-plugin",
+  "author": "original by schreibfaul1 | Dev & Block by Sonthaya Nongnuch",
+  "email": "max30012540@hotmail.com",
+  "url": "https://docs.ioxesp32.com/",
+  "version": "1.0.1",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/cover.jpg"
+}

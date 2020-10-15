@@ -1,0 +1,15 @@
+{
+  "name": "IOXESP32Battery",
+  "title" : "IOXESP32 Battery",
+  "keywords": "IOXESP32 Battery",
+  "description": "Arduino library for IOXESP32 Battery shield",
+  "homepage": "https://docs.ioxesp32.com/",
+  "license": "MIT",
+  "git": "https://github.com/IOXESP32/IOXESP32Battery",
+  "author": "Sonthaya Nongnuch",
+  "email": "sonthaya.nt@hotmail.com",
+  "url": "https://docs.ioxesp32.com/",
+  "version": "1.0.0",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/cover.jpg"
+}
